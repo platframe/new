@@ -1,0 +1,15 @@
+[
+    {
+        "action": "clone",
+        "src": "platframe/platframe"
+    },
+    {
+        "action": "remove",
+        "files": [
+            "LICENSE",
+            "README.md",
+            ".travis.yml",
+            ".codacy.yml"
+        ]
+    }
+]
