@@ -8,6 +8,7 @@
         "files": [
             "LICENSE",
             "README.md",
+            "netlify.toml",
             ".travis.yml",
             ".codacy.yml"
         ]
